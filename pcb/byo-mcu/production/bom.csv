@@ -1,7 +1,7 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
 "BZ1, BZ2",AST1109MLTRQ,2,Buzzer,C201047
 "D10, D11, D12, D14, D15, D16, D17, D18, D19, D2, D20, D21, D3, D4, D5, D6, D8, D9, D98",D_SOD-123,19,1N4148W,C909967
-"D43, D44, D45, D46, D47, D48",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-reversible,6,SK6812MINI-E,
+"D43, D44, D45, D46, D47, D48",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-reversible,6,WS2812B,C2761795
 "H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
 J1,FPC-SMD_FPC05012-09200-.5mm-rev,1,Conn_01x12_Female,C479750
 J13,Connector_THT_1x4_2.54,1,Conn_01x04_Female,
