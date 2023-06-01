@@ -1,4 +1,4 @@
-21117315103369676
+21119000702789038
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87968,6 +87968,13 @@ switch SPDT
 0
 5
 3
+fingerpunch
+TRRS-PJ-320A
+
+
+0
+4
+4
 fingerpunch
 TestPoint_Pad_D0.8mm
 SMD pad as test Point, diameter 1.0mm

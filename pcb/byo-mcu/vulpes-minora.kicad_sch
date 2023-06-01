@@ -3623,7 +3623,7 @@
     (uuid 7429b754-d173-4f8d-a319-a4c0c91169f3)
     (property "Reference" "J3" (id 0) (at 81.4578 203.835 0))
     (property "Value" "AudioJack4dpb" (id 1) (at 81.4578 206.1464 0))
-    (property "Footprint" "Keebio-Parts:TRRS-PJ-320A" (id 2) (at 86.36 212.09 0)
+    (property "Footprint" "fingerpunch:TRRS-PJ-320A" (id 2) (at 86.36 212.09 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 86.36 212.09 0)
@@ -4009,7 +4009,7 @@
     (uuid e32480a0-b4a3-40e8-8178-97e782dde166)
     (property "Reference" "J2" (id 0) (at 81.4578 173.355 0))
     (property "Value" "AudioJack4dpb" (id 1) (at 81.4578 175.6664 0))
-    (property "Footprint" "Keebio-Parts:TRRS-PJ-320A" (id 2) (at 86.36 181.61 0)
+    (property "Footprint" "fingerpunch:TRRS-PJ-320A" (id 2) (at 86.36 181.61 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 86.36 181.61 0)
@@ -4320,10 +4320,10 @@
       (reference "J1") (unit 1) (value "Conn_01x12_Female") (footprint "fingerpunch:FPC-SMD_FPC05012-09200-.5mm-rev")
     )
     (path "/e32480a0-b4a3-40e8-8178-97e782dde166"
-      (reference "J2") (unit 1) (value "AudioJack4dpb") (footprint "Keebio-Parts:TRRS-PJ-320A")
+      (reference "J2") (unit 1) (value "AudioJack4dpb") (footprint "fingerpunch:TRRS-PJ-320A")
     )
     (path "/7429b754-d173-4f8d-a319-a4c0c91169f3"
-      (reference "J3") (unit 1) (value "AudioJack4dpb") (footprint "Keebio-Parts:TRRS-PJ-320A")
+      (reference "J3") (unit 1) (value "AudioJack4dpb") (footprint "fingerpunch:TRRS-PJ-320A")
     )
     (path "/17b7693d-45df-4be3-952d-ad496598d5eb"
       (reference "J13") (unit 1) (value "Conn_01x04_Female") (footprint "fingerpunch:Connector_THT_1x4_2.54")
