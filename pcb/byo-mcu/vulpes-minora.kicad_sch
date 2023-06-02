@@ -2085,7 +2085,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7296127a-1518-4135-b47c-80805a0baa89)
   )
-  (text "(VIKS) Voltron Interface for Keyboard Modules" (at 44.45 245.11 0)
+  (text "VIK Interface (keyboard pcb)" (at 52.07 245.11 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9c95da06-da97-4485-b74d-99b67093cae7)
   )
