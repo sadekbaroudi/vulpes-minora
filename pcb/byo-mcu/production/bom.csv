@@ -5,7 +5,7 @@ Designator,Footprint,Quantity,Value,LCSC Part #
 "H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
 J13,Connector_THT_1x4_2.54,1,Conn_01x04_Female,
 "J2, J3",TRRS-PJ-320A,2,AudioJack4dpb,
-J4,vik-connector-horizontal,1,~,C479750
+J4,vik-keyboard-connector-horizontal,1,~,C479750
 "JP1, JP4",SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm,2,SolderJumper_2_Bridged,
 JP2,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,1,Jumper_2_Open,
 JP3,SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels,1,SolderJumper_3_Bridged12,

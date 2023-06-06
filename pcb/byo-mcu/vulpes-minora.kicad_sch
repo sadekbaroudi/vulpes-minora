@@ -3966,7 +3966,7 @@
     (property "Value" "~" (at 60.96 185.42 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "vik:vik-connector-horizontal" (at 60.96 185.42 0)
+    (property "Footprint" "vik:vik-keyboard-connector-horizontal" (at 60.96 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 60.96 185.42 0)

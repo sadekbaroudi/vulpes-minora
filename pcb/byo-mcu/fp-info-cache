@@ -1,4 +1,4 @@
-21914466212182608
+21917838352633945
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91007,14 +91007,14 @@ xiao-tht
 18
 18
 vik
-vik-connector-horizontal
+vik-keyboard-connector-horizontal
 
 
 0
 14
 14
 vik
-vik-connector-vertical
+vik-keyboard-connector-vertical
 
 
 0
@@ -91048,6 +91048,20 @@ vik-logo-small
 0
 0
 0
+vik
+vik-module-connector-horizontal
+
+
+0
+14
+14
+vik
+vik-module-connector-vertical
+
+
+0
+14
+12
 vik
 vik-module-throughole
 
