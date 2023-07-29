@@ -38,6 +38,12 @@ You can make this board yourself! I recommend [JLCPCB](https://jlcpcb.com/).
 
 All you need to do is upload the gerber.zip found in the production folder of either the byo-mcu or rp2040-zero folders. I also recommend you do PCBA. If you'd like to do this, you can use the bom.csv and positions.csv in the same folder.
 
+## Firmware
+
+See QMK firmware here:
+
+https://github.com/sadekbaroudi/qmk_firmware/tree/master/keyboards/fingerpunch/vulpes_minora
+
 ## Bill of materials
 
 ### PCB
