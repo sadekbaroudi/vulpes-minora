@@ -19,6 +19,8 @@ This is a 36 key split pcb, specifically designed with the intent to demonstrate
 
 This is a build using the [byo-mcu pcb](https://github.com/sadekbaroudi/vulpes-minora/tree/master/pcb/byo-mcu) keyboard pcb and the [per56-cirque-leds](https://github.com/sadekbaroudi/vik/tree/master/pcb/per56-cirque-leds) module.
 
+![vulpes-minora-cirque-scroll-wheel-full-in-dark](images/vulpes-minora-cirque-scroll-wheel-full-in-dark.jpg)
+
 ![vulpes-minora-cirque-scroll-wheel-full](images/vulpes-minora-cirque-scroll-wheel-full.jpg)
 
 ![vulpes-minora-case-cutouts](images/vulpes-minora-case-cutouts.jpg)
