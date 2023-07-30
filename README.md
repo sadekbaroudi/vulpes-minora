@@ -2,6 +2,16 @@
 
 This is a 36 key split pcb, specifically designed with the intent to demonstrate a VIK certified keyboard. Read all about that in the [vik github repository](https://github.com/sadekbaroudi/vik)
 
+## Features
+
+vulpes minora supports the following features:
+* 36 keys
+* Reversible PCB
+* MX / Choc / KS-27 and KS-33 switch support, hotswap only
+* Underglow
+* EC11 rotary encoders
+* Audio buzzer (byo-mcu only, not supported on RP2040-Zero edition)
+
 ## VIK keyboard certification card
 
 | Category                 | Classification          | Response           |
@@ -50,7 +60,7 @@ https://github.com/sadekbaroudi/qmk_firmware/tree/master/keyboards/fingerpunch/v
 
 ### PCB
 
-| Part name                                                          | Part Number (example)                                                                                                                                              | Required               | Quantity               |
+| Part name                                                          | Part Link (example)                                                                                                                                                | Required               | Quantity               |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ---------------------- |
 | SOD-123 1N4148W diodes                                             | https://www.lcsc.com/product-detail/Switching-Diode_GOODWORK-1N4148W_C909967.html                                                                                  | :heavy_check_mark:     | 36 (38 if using EC11 ) |
 | TRRS jack                                                          | https://www.amazon.com/uxcell-Audio-Connector-Mount-Socket/dp/B0BJJW9KVZ                                                                                           | :heavy_check_mark:     | 2                      |
@@ -60,6 +70,7 @@ https://github.com/sadekbaroudi/qmk_firmware/tree/master/keyboards/fingerpunch/v
 | WS2812B leds                                                       | https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html                                                                  | :x:                    | 12                     |
 | VIK connector (FPC 12 pin 0.5mm pitch)                             | https://www.lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html                                                              | :x:                    | 2                      |
 | EC-11 encoders                                                     | No link, easy to find these                                                                                                                                        | :x:                    | 2                      |
+| Audio buzzer (KLJ-1102)                                            | https://www.lcsc.com/product-detail/Buzzers_KELIKING-KLJ-1102_C201047.html                                                                                         | :x:                    | 2                      |
 
 ### Module
 
