@@ -1,6 +1,6 @@
 # vulpes minora
 
-This is a 36 key split pcb, specifically designed with the intent to demonstrate a VIK certified keyboard. Read all about that in the [vik github repository](https://github.com/sadekbaroudi/vik)
+This is a 36 key split PCB, specifically designed with the intent to demonstrate a VIK-certified keyboard. Read all about that in the [vik GitHub repository](https://github.com/sadekbaroudi/vik)
 
 ## Features
 
@@ -30,7 +30,7 @@ Note: while the xiao-xivik version doesn't support VIK, the intent of this PCB i
 
 ## Build pics
 
-This is a build using the [byo-mcu pcb](https://github.com/sadekbaroudi/vulpes-minora/tree/master/pcb/byo-mcu) keyboard pcb and the [per56-cirque-leds](https://github.com/sadekbaroudi/vik/tree/master/pcb/per56-cirque-leds) module.
+This is a build using the [byo-mcu pcb](https://github.com/sadekbaroudi/vulpes-minora/tree/master/pcb/byo-mcu) keyboard PCB and the [per56-cirque-leds](https://github.com/sadekbaroudi/vik/tree/master/pcb/per56-cirque-leds) module.
 
 ![vulpes-minora-cirque-scroll-wheel-full-in-dark](images/vulpes-minora-cirque-scroll-wheel-full-in-dark.jpg)
 
@@ -46,8 +46,8 @@ This is a build using the [byo-mcu pcb](https://github.com/sadekbaroudi/vulpes-m
 
 ## Fabrication
 
-> **Warning**  
-> As of 2023-07-29, the RP2040-Zero version has not been tested. It should work, as it was designed to be identical to the byo-mcu version, but instead uses a RP2040 -Zero controller. The firmware has not been written for it either. If you're interested in making it, please reach out to **sadekbaroudi** in the **#vulpes-minora** channel of the [fingerpunch discord server](https://fingerpunch.xyz/discord) and I will be glad to help.
+> **Warning**
+> As of 2023-07-29, the RP2040-Zero version has not been tested. It should work, as it was designed to be identical to the byo-mcu version, but instead uses an RP2040 -Zero controller. The firmware has not been written for it either. If you're interested in making it, please reach out to **sadekbaroudi** in the **#vulpes-minora** channel of the [fingerpunch discord server](https://fingerpunch.xyz/discord) and I will be glad to help.
 
 You can make this board yourself! I recommend [JLCPCB](https://jlcpcb.com/).
 
@@ -70,7 +70,7 @@ https://github.com/sadekbaroudi/qmk_firmware/tree/master/keyboards/fingerpunch/v
 | Hotswap sockets (MX, choc, or ks-27/33)                            | No link, easy to find these                                                                                                                                        | :heavy_check_mark:     | 36                     |
 | RP2040 elite-c footprint compatible controller (elite-pi, splinky) | https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040 <br /> https://github.com/plut0nium/0xB2 <br /> https://github.com/0xCB-dev/0xCB-Helios       | :heavy_check_mark:     | 2                      |
 | SKQGA* (example SKQGADE010) - reset switch                         | https://www.lcsc.com/product-detail/Tactile-Switches_ALPSALPINE-SKQGADE010_C116647.html                                                                            | :heavy_check_mark:     | 2                      |
-| WS2812B leds                                                       | https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html                                                                  | :x:                    | 12                     |
+| WS2812B LEDs                                                       | https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html                                                                  | :x:                    | 12                     |
 | VIK connector (FPC 12 pin 0.5mm pitch)                             | https://www.lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html                                                              | :x:                    | 2                      |
 | EC-11 encoders                                                     | No link, easy to find these                                                                                                                                        | :x:                    | 2                      |
 | Audio buzzer (KLJ-1102)                                            | https://www.lcsc.com/product-detail/Buzzers_KELIKING-KLJ-1102_C201047.html                                                                                         | :x:                    | 2                      |
