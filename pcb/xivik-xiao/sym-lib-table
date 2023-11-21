@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/libraries/keebio.lib")(options "")(descr ""))
+  (lib (name "fingerpunch")(type "KiCad")(uri "${KIPRJMOD}/libraries/fingerpunch.kicad_sym")(options "")(descr ""))
+  (lib (name "vik")(type "KiCad")(uri "${KIPRJMOD}/libraries/vik.kicad_sym")(options "")(descr ""))
+)

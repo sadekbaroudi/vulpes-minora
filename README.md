@@ -9,8 +9,11 @@ vulpes minora supports the following features:
 * Reversible PCB
 * MX / Choc / KS-27 and KS-33 switch support, hotswap only
 * Underglow
-* EC11 rotary encoders
-* Audio buzzer (byo-mcu only, not supported on RP2040-Zero edition)
+* EC11 rotary encoders (byo-mcu and RP2040-Zero version only)
+* Audio buzzer (byo-mcu only)
+* VIK support (byo-mcu and RP2040-Zero version only)
+
+Note: while the xiao-xivik version doesn't support VIK, the intent of this PCB is to allow you to build a vulpes majora using a [xivik controller](https://fingerpunch.xyz/product/xivik), which **does** provide you VIK support
 
 ## VIK keyboard certification card
 
