@@ -1,15 +1,22 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
 "BZ1, BZ2",AST1109MLTRQ,2,Buzzer,C201047
+"C1, C2",0603,2,47 uF,C140782
+C3,0402,1,0.1 uF,C1525
 "D10, D11, D12, D14, D15, D16, D17, D18, D19, D2, D20, D21, D3, D4, D5, D6, D8, D9, D98",D_SOD-123,19,1N4148W,C909967
 "D43, D44, D45, D46, D47, D48",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-reversible,6,WS2812B,C2761795
 "H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
-J13,Connector_THT_1x4_2.54,1,Conn_01x04_Female,
+J1,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,1,Conn_01x03_Female,C157929
 "J2, J3",TRRS-PJ-320A,2,AudioJack4dpb,
 J4,vik-keyboard-connector-horizontal,1,~,C479750
-"JP1, JP4",SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm,2,SolderJumper_2_Bridged,
-JP2,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,1,Jumper_2_Open,
-JP3,SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels,1,SolderJumper_3_Bridged12,
+"JP2, JP5",SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,2,Jumper_2_Open,
+"JP3, JP6",SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,2,Jumper_3_Open,
+JP4,SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm,1,SolderJumper_2_Bridged,
+L1,0603,1,22 uH,C361669
+R1,0402,1,2M,C138014
+SW1,SW_CuK_OS102011MA1QN1_SPDT_Angled,1,SW_DIP_x01,C226259
 "SW10, SW11, SW12, SW14, SW15, SW16, SW17, SW18, SW19, SW2, SW20, SW21, SW3, SW4, SW5, SW6, SW8, SW9",gateron-ks27-choc-v1-mx-hotswap-reversible,18,SW_Push,
 "SW47, SW48",RotaryEncoder_EC11-no-legs,2,RotaryEncoder_Switch,
 U1,Elite-C,1,RP2040 Controller,
 "U2, U3",SKQG-1155865,2,SW_Push,
+U4,nice_nano,1,nice_nano,
+U5,SOT-23-6,1,AP1603WG-7,C192712
